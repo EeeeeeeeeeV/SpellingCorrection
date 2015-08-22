@@ -1,0 +1,10 @@
+<config>
+dictfile  /zrepo/documents/SpellingCorrection/dictfile
+log    /zrepo/code/SpellingCorrection/data/logcfg
+cachefile  /zrepo/documents/SpellingCorrection/cachefile
+ip    127.0.0.100
+port  10000
+threadsnum    11
+queuesize     10
+
+</config>
