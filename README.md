@@ -71,7 +71,7 @@
     └── SocketIO.h
 
 ```
-#程序执行流程：
+#程序执行流程
 
 ```
 初始化：
@@ -107,7 +107,7 @@ input :
 
 ```
 
-#参考：
+#参考
 http://52opencourse.com/138/spelling-correction
 http://www.ruanyifeng.com/blog/2012/10/spelling_corrector.html
 
