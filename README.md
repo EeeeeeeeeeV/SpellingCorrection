@@ -73,7 +73,7 @@
 ```
 #程序执行流程：
 
-
+```
 初始化：
 1. 
 Begin ——> Load Configuration ——> Load Dictionary ——> Build Indexes ——>  ThreadPool Start 
@@ -85,6 +85,8 @@ Query Words ——> Epoll ——> Task ——> Word Set ——> MIN Edit Distanc
 
 Cache更新机制：
 Cache分为线程Cache和进程Cache, 线程Cache定时同步到进程Cache，进程Cache定时更新线程Cache并把Cache写入磁盘
+
+```
 
 #样例
 ```
